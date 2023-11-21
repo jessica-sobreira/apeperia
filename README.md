@@ -7,9 +7,6 @@
 
 Apeperia foi um projeto desenvolvido na aula "Layouts Responsivos: trabalhando com layouts mobile", ministrado pelo instrutor Matheus Alberto. O objetivo foi colocar em prática os conhecimentos transmitidos no curso para o aperfeiçoamento do futuro Desenvolver Front-End.
 
-<h2 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h2>
 
 # :hammer: Funcionalidades do projeto
 
